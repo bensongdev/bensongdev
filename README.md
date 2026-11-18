@@ -1,14 +1,11 @@
 ## 안녕하세요 윤산입니다.
 
-인디 해커로서 소프트웨어 뿐만 아니라 만화, 소설 등 다양한 창작 활동도 하고 있어요.
+인디 해커로서 소프트웨어 개발 뿐만 아니라 만화, 소설 등 다양한 창작을 좋아합니다.
 
-## 프로젝트
-
-### [mac-native-ai-system](https://github.com/ynsnih/mac-native-ai-system)
-
-AI 에이전트가 macOS 네이티브 SwiftUI 앱을 구현하고, 빌드·테스트·스크린샷 증거까지 남기도록 만든 개발 템플릿이에요.
-사람이 승인한 제품 명세에 있는 기능만 구현하고, 결과는 항목별 PASS/FAIL/NOT RUN 보고서와 스크린샷으로 남겨요.
-최종 판단은 사람이 보고서와 스크린샷을 직접 확인해서 내리도록 설계했어요.
+#### 프로젝트
+- [mac-native-ai-system](https://github.com/ynsnih/mac-native-ai-system) - macOS 네이티브 SwiftUI 앱을 구현하고 빌드, 테스트, 스크린샷 결과까지 남기도록 만든 개발 템플릿
+- [Fussy Cat](https://github.com/ynsnih/fussycat) - 맥 전용 리소스 모니터 메뉴바 앱
+- [파괴 허가 구역](https://free2smash.com) - 웹 브라우저에서 바로 들어와 사무실과 학교 물건을 마음껏 부수는 3D 샌드박스
 
 <!--
 **ynsnih/ynsnih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
