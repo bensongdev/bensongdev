@@ -1,4 +1,5 @@
 ## 안녕하세요 윤산입니다.
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ynsnih)
 
 인디 해커로서 소프트웨어 개발 뿐만 아니라 만화, 소설 등 다양한 창작을 좋아합니다.
 
