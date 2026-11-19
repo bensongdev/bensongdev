@@ -7,8 +7,9 @@
 
 #### 프로젝트
 - [MNAS](https://github.com/bensongdev/mnas) - macOS 네이티브 SwiftUI 앱을 구현하고 빌드, 테스트, 스크린샷 결과까지 남기도록 만든 개발 템플릿
-- [Fussy Cat](https://github.com/bensongdev/fussycat) - 맥 전용 리소스 모니터 메뉴바 앱
+- [Fussy Cat](https://github.com/bensongdev/fussycat) - 리소스 모니터 macOS 메뉴바 앱
 - [파괴 허가 구역](https://free2smash.com) - 웹 브라우저에서 바로 들어와 사무실과 학교 물건을 마음껏 부수는 3D 샌드박스
+- [XcodeKeeper](https://github.com/bensongdev/XcodeKeeper) - Xcode 찌꺼기 정리와 메모리, 디스크 모니터 macOS 메뉴바 앱
 
 <!--
 **ynsnih/ynsnih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
